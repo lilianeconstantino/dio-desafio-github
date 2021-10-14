@@ -1,0 +1,10 @@
+## Links úteis:
+
+Link sintaxe Markdown: https://www.markdownguide.org/
+
+É a linguagem de marcação utilizada principalmente pra escrever os arquivos de descrição dos repositórios no GitHub.
+
+Link download do Git: https://git-scm.com/
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
